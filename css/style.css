@@ -7,7 +7,7 @@ h1{
 #author-name{
     color: #FFA500;
 }
-section{
+.flexible-container{
     display: flex;
 }
 .half-width{
