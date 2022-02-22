@@ -17,15 +17,21 @@ section{
 .half-width img{
     width: 80%;
 }
-#hire-button{
+.hire-button{
     background-color: #FF7052;
     text-decoration: none;
     padding: 10px 20px;
     border-radius: 30px;
     color: white;
     font-weight: 500px;
+    margin-top: 30px;
 }
 .top-banner{
     background-image: url();
     background-repeat: no-repeat;
+}
+.dream{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-image: url(images/dream-bg.png);
 }
